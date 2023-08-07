@@ -1,0 +1,16 @@
+{
+  "name": "ecommerce-api",
+  "version": "1.0.0",
+  "description": "This is a ready RESTful API created with the JSON Server package",
+  "main": "server.js",
+  "devDependencies": {
+    "json-server": "^0.17.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js PORT=4000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
