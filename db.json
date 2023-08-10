@@ -1916,7 +1916,9 @@
             "discountedTotal": 1941,
             "userId": 97,
             "totalProducts": 5,
-            "totalQuantity": 10
+            "totalQuantity": 10,
+            "date": "01-08-2023",
+            "userName": "Baba"
         },
         {
             "id": 2,
@@ -1971,7 +1973,9 @@
             "discountedTotal": 2625,
             "userId": 30,
             "totalProducts": 5,
-            "totalQuantity": 10
+            "totalQuantity": 10,
+            "date": "02-08-2023",
+            "userName": "Bibi"
         },
         {
             "id": 3,
@@ -2026,7 +2030,9 @@
             "discountedTotal": 403,
             "userId": 63,
             "totalProducts": 5,
-            "totalQuantity": 10
+            "totalQuantity": 10,
+            "date": "03-08-2023",
+            "userName": "Bubu"
         },
         {
             "id": 4,
@@ -2081,7 +2087,9 @@
             "discountedTotal": 493,
             "userId": 83,
             "totalProducts": 5,
-            "totalQuantity": 10
+            "totalQuantity": 10,
+            "date": "04-08-2023",
+            "userName": "Bebe"
         },
         {
             "id": 5,
@@ -2136,7 +2144,9 @@
             "discountedTotal": 745,
             "userId": 58,
             "totalProducts": 5,
-            "totalQuantity": 10
+            "totalQuantity": 10,
+            "date": "05-08-2023",
+            "userName": "Bobo"
         },
         {
             "id": 6,
@@ -2191,7 +2201,9 @@
             "discountedTotal": 1276,
             "userId": 26,
             "totalProducts": 5,
-            "totalQuantity": 12
+            "totalQuantity": 12,
+            "date": "06-08-2023",
+            "userName": "Caca"
         },
         {
             "id": 7,
@@ -2246,7 +2258,9 @@
             "discountedTotal": 519,
             "userId": 56,
             "totalProducts": 5,
-            "totalQuantity": 10
+            "totalQuantity": 10,
+            "date": "07-08-2023",
+            "userName": "Cucu"
         },
         {
             "id": 8,
@@ -2301,7 +2315,9 @@
             "discountedTotal": 952,
             "userId": 1,
             "totalProducts": 5,
-            "totalQuantity": 9
+            "totalQuantity": 9,
+            "date": "08-08-2023",
+            "userName": "Cece"
         },
         {
             "id": 9,
@@ -2356,7 +2372,9 @@
             "discountedTotal": 3371,
             "userId": 91,
             "totalProducts": 5,
-            "totalQuantity": 10
+            "totalQuantity": 10,
+            "date": "09-08-2023",
+            "userName": "Coco"
         },
         {
             "id": 10,
@@ -2411,7 +2429,9 @@
             "discountedTotal": 8205,
             "userId": 13,
             "totalProducts": 5,
-            "totalQuantity": 9
+            "totalQuantity": 9,
+            "date": "10-08-2023",
+            "userName": "Dada"
         },
         {
             "id": 11,
@@ -2466,7 +2486,9 @@
             "discountedTotal": 502,
             "userId": 66,
             "totalProducts": 5,
-            "totalQuantity": 12
+            "totalQuantity": 12,
+            "date": "11-08-2023",
+            "userName": "Didi"
         },
         {
             "id": 12,
@@ -2521,7 +2543,9 @@
             "discountedTotal": 459,
             "userId": 52,
             "totalProducts": 5,
-            "totalQuantity": 11
+            "totalQuantity": 11,
+            "date": "12-08-2023",
+            "userName": "Dudu"
         },
         {
             "id": 13,
@@ -2576,7 +2600,9 @@
             "discountedTotal": 425,
             "userId": 79,
             "totalProducts": 5,
-            "totalQuantity": 9
+            "totalQuantity": 9,
+            "date": "13-08-2023",
+            "userName": "Dede"
         },
         {
             "id": 14,
@@ -2631,7 +2657,9 @@
             "discountedTotal": 2021,
             "userId": 76,
             "totalProducts": 5,
-            "totalQuantity": 9
+            "totalQuantity": 9,
+            "date": "14-08-2023",
+            "userName": "Dodo"
         },
         {
             "id": 15,
@@ -2686,7 +2714,9 @@
             "discountedTotal": 4007,
             "userId": 47,
             "totalProducts": 5,
-            "totalQuantity": 12
+            "totalQuantity": 12,
+            "date": "15-08-2023",
+            "userName": "Fafa"
         },
         {
             "id": 16,
@@ -2741,7 +2771,9 @@
             "discountedTotal": 3414,
             "userId": 15,
             "totalProducts": 5,
-            "totalQuantity": 10
+            "totalQuantity": 10,
+            "date": "16-08-2023",
+            "userName": "Fufu"
         },
         {
             "id": 17,
@@ -2796,7 +2828,9 @@
             "discountedTotal": 300,
             "userId": 56,
             "totalProducts": 5,
-            "totalQuantity": 8
+            "totalQuantity": 8,
+            "date": "17-08-2023",
+            "userName": "Fefe"
         },
         {
             "id": 18,
@@ -2851,7 +2885,9 @@
             "discountedTotal": 2189,
             "userId": 42,
             "totalProducts": 5,
-            "totalQuantity": 9
+            "totalQuantity": 9,
+            "date": "18-08-2023",
+            "userName": "Fofo"
         },
         {
             "id": 19,
@@ -2906,7 +2942,9 @@
             "discountedTotal": 2140,
             "userId": 5,
             "totalProducts": 5,
-            "totalQuantity": 14
+            "totalQuantity": 14,
+            "date": "19-08-2023",
+            "userName": "Gaga"
         },
         {
             "id": 20,
@@ -2961,7 +2999,9 @@
             "discountedTotal": 279,
             "userId": 75,
             "totalProducts": 5,
-            "totalQuantity": 8
+            "totalQuantity": 8,
+            "date": "20-08-2023",
+            "userName": "Gigi"
         }
     ]
 }
